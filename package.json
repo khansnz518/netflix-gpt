@@ -39,6 +39,7 @@
     ]
   },
   "devDependencies": {
-    "@tailwindcss/cli": "^4.1.18"
+    "@tailwindcss/cli": "^4.1.18",
+    "react-router-dom": "^7.12.0"
   }
 }
